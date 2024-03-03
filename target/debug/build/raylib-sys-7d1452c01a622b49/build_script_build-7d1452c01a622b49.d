@@ -1,0 +1,9 @@
+C:\Users\vigan\OneDrive\Documentos\code\rust\DoomFire\target\debug\build\raylib-sys-7d1452c01a622b49\build_script_build-7d1452c01a622b49.exe: C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\build.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\bindings_windows.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\bindings_linux.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\bindings_osx.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\bindings_web.rs
+
+C:\Users\vigan\OneDrive\Documentos\code\rust\DoomFire\target\debug\build\raylib-sys-7d1452c01a622b49\build_script_build-7d1452c01a622b49.d: C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\build.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\bindings_windows.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\bindings_linux.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\bindings_osx.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\bindings_web.rs
+
+C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\build.rs:
+C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\bindings_windows.rs:
+C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\bindings_linux.rs:
+C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\bindings_osx.rs:
+C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\raylib-sys-3.7.0\bindings_web.rs:

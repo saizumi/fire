@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\vigan\OneDrive\Documentos\code\rust\DoomFire\target\debug\build\raylib-sys-5ae74b07b9e27499\out\build\CMakeFiles\34661c8e18e021b5db28819ba73c0707\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2BFCE640-7F21-361D-A306-77A8EA4452AD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

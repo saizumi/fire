@@ -1,0 +1,11 @@
+C:\Users\vigan\OneDrive\Documentos\code\rust\DoomFire\target\debug\deps\liblibc-778846e6f9e0f607.rmeta: C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\lib.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\macros.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\fixed_width_ints.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\windows\mod.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\windows\msvc\mod.rs
+
+C:\Users\vigan\OneDrive\Documentos\code\rust\DoomFire\target\debug\deps\liblibc-778846e6f9e0f607.rlib: C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\lib.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\macros.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\fixed_width_ints.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\windows\mod.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\windows\msvc\mod.rs
+
+C:\Users\vigan\OneDrive\Documentos\code\rust\DoomFire\target\debug\deps\libc-778846e6f9e0f607.d: C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\lib.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\macros.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\fixed_width_ints.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\windows\mod.rs C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\windows\msvc\mod.rs
+
+C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\lib.rs:
+C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\macros.rs:
+C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\fixed_width_ints.rs:
+C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\windows\mod.rs:
+C:\Users\vigan\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.152\src\windows\msvc\mod.rs:

@@ -1,0 +1,9 @@
+C:/Users/vigan/OneDrive/Documentos/code/rust/DoomFire/target/debug/build/raylib-sys-0e5fe88ead682e4a/out/lib/raylib.lib
+C:/Users/vigan/OneDrive/Documentos/code/rust/DoomFire/target/debug/build/raylib-sys-0e5fe88ead682e4a/out/include/raylib.h
+C:/Users/vigan/OneDrive/Documentos/code/rust/DoomFire/target/debug/build/raylib-sys-0e5fe88ead682e4a/out/include/rlgl.h
+C:/Users/vigan/OneDrive/Documentos/code/rust/DoomFire/target/debug/build/raylib-sys-0e5fe88ead682e4a/out/include/physac.h
+C:/Users/vigan/OneDrive/Documentos/code/rust/DoomFire/target/debug/build/raylib-sys-0e5fe88ead682e4a/out/include/raymath.h
+C:/Users/vigan/OneDrive/Documentos/code/rust/DoomFire/target/debug/build/raylib-sys-0e5fe88ead682e4a/out/include/raudio.h
+C:/Users/vigan/OneDrive/Documentos/code/rust/DoomFire/target/debug/build/raylib-sys-0e5fe88ead682e4a/out/lib/pkgconfig/raylib.pc
+C:/Users/vigan/OneDrive/Documentos/code/rust/DoomFire/target/debug/build/raylib-sys-0e5fe88ead682e4a/out/lib/cmake/raylib/raylib-config-version.cmake
+C:/Users/vigan/OneDrive/Documentos/code/rust/DoomFire/target/debug/build/raylib-sys-0e5fe88ead682e4a/out/lib/cmake/raylib/raylib-config.cmake

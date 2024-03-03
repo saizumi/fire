@@ -1,0 +1,10 @@
+^C:\USERS\VIGAN\ONEDRIVE\DOCUMENTOS\CODE\RUST\DOOMFIRE\TARGET\DEBUG\BUILD\RAYLIB-SYS-5AE74B07B9E27499\OUT\RAYLIB\SRC\EXTERNAL\GLFW\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/vigan/OneDrive/Documentos/code/rust/DoomFire/target/debug/build/raylib-sys-5ae74b07b9e27499/out/raylib -BC:/Users/vigan/OneDrive/Documentos/code/rust/DoomFire/target/debug/build/raylib-sys-5ae74b07b9e27499/out/build --check-stamp-file C:/Users/vigan/OneDrive/Documentos/code/rust/DoomFire/target/debug/build/raylib-sys-5ae74b07b9e27499/out/build/raylib/external/glfw/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
