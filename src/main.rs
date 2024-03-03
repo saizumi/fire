@@ -1,7 +1,6 @@
 use raylib::prelude::*;
 use rand;
 
-#[warn(dead_code)]
 const FIRE_WIDTH: i32 = 60;
 const FIRE_HEIGHT: i32 = 60;
 const SIZE: i32 = 10;
